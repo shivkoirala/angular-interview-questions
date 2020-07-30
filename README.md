@@ -1,6 +1,5 @@
 # Angular Interview Questions & Answers
 
-Do not forget to check our Angular interview Questions and answers video https://www.youtube.com/watch?v=-jeoyDJDsSM
 
 <div align="center">
     <p>
@@ -20,7 +19,8 @@ Do not forget to check our Angular interview Questions and answers video https:/
 
 ## Downloading PDF/Epub formats
 
-You can download the PDF and Epub version of this repository from the latest run on the [actions tab](https://github.com/sudheerj/angular-interview-questions/actions).
+You can download the PDF and Epub version of this repository from the latest run on the [actions tab](https://github.com/sudheerj/angular-interview-questions/actions). With the below resources  Do not forget to check our Angular interview Questions and answers video https://www.youtube.com/watch?v=-jeoyDJDsSM
+
 
 ### Table of Contents
 
